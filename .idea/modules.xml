@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/201312-2/201312-2.iml" filepath="$PROJECT_DIR$/201312-2/201312-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/201312-3/201312-3.iml" filepath="$PROJECT_DIR$/201312-3/201312-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/201403-1/201403-1.iml" filepath="$PROJECT_DIR$/201403-1/201403-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/201403-2/201403-2.iml" filepath="$PROJECT_DIR$/201403-2/201403-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/201403-3/201403-3.iml" filepath="$PROJECT_DIR$/201403-3/201403-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/201403-4/201403-4.iml" filepath="$PROJECT_DIR$/201403-4/201403-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/201409-3/201409-3.iml" filepath="$PROJECT_DIR$/201409-3/201409-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/201709-2/201709-2.iml" filepath="$PROJECT_DIR$/201709-2/201709-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/201803-3/201803-3.iml" filepath="$PROJECT_DIR$/201803-3/201803-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/201812-1/201812-1.iml" filepath="$PROJECT_DIR$/201812-1/201812-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/201909-2/201909-2.iml" filepath="$PROJECT_DIR$/201909-2/201909-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/201912-3/201912-3.iml" filepath="$PROJECT_DIR$/201912-3/201912-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/202012-1/202012-1.iml" filepath="$PROJECT_DIR$/202012-1/202012-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/202012-2/202012-2.iml" filepath="$PROJECT_DIR$/202012-2/202012-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/202012-3/202012-3.iml" filepath="$PROJECT_DIR$/202012-3/202012-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/202104-2/202104-2.iml" filepath="$PROJECT_DIR$/202104-2/202104-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/202104-3/202104-3.iml" filepath="$PROJECT_DIR$/202104-3/202104-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSP_Study.iml" filepath="$PROJECT_DIR$/CSP_Study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph.iml" filepath="$PROJECT_DIR$/Graph/Graph.iml" />
+    </modules>
+  </component>
+</project>
